@@ -25,28 +25,7 @@
         </license>
     </licenses>
 
-    <repositories>
-        <repository>
-            <id>primefaces</id>
-            <name>PrimeFaces Maven Repository</name>
-            <url>http://repository.primefaces.org</url>
-            <layout>default</layout>
-        </repository>
-    </repositories>
-
-    <issueManagement>
-        <system>GitHub</system>
-        <url>https://github.com/primefaces-extensions/primefaces-extensions.github.com/issues</url>
-    </issueManagement>
-
     <inceptionYear>2011</inceptionYear>
-
-    <scm>
-        <connection>scm:git:git@github.com:primefaces-extensions/master-pom.git</connection>
-        <developerConnection>scm:git:git@github.com:primefaces-extensions/master-pom.git</developerConnection>
-        <url>https://github.com/primefaces-extensions/master-pom</url>
-        <tag>HEAD</tag>
-    </scm>
 
     <developers>
         <developer>
