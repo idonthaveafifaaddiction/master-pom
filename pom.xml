@@ -19,13 +19,14 @@
         </license>
     </licenses>
 
-		<repositories>
+		<distributionManagement>
         <repository>
 						<id>masergy-nexus-inhouse-repository</id>
 						<url>https://mavenrepo.masergy.com/nexus/content/groups/inhouse-repositories</url>
 						<layout>default</layout>
         </repository>
-    </repositories>
+    </distributionManagement>
+
     <inceptionYear>2011</inceptionYear>
 
     <developers>
